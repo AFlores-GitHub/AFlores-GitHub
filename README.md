@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnology
 - 
 - 🌱 I’m currently learning javascript-node
-- 📫 How to reach me ...
+- 📫 You can find me via email afs.mx.2012@gmail.com
 
 <!---
 AFlores-GitHub/AFlores-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
